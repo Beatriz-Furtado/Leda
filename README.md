@@ -1,2 +1,2 @@
 # Leda
-Cócigo dos roteiros
+Laboratório de estrutura de dados - Códigos dos roteiros
