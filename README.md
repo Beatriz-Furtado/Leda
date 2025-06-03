@@ -1,2 +1,2 @@
 # Leda
-Laboratório de estrutura de dados - Códigos dos roteiros
+Cadeira Laboratório de estrutura de dados - Códigos dos roteiros
